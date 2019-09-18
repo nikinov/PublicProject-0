@@ -1,22 +1,12 @@
 ﻿<Properties StartupConfiguration="{9E255518-86BB-DE42-A99C-3C0B7223AEAD}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenuScene/Panels/SetToFalse.cs">
     <Files>
-      <File FileName="Assets/Scripts/MainMenuScene/Panels/SetToFalse.cs" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/MainMenuScene/Panels/SetToFalse.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Public Project - 0" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="MainMenuScene" expanded="True">
-                  <Node name="Panels" expanded="True">
-                    <Node name="SetToFalse.cs" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Public Project - 0" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
