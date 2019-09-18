@@ -2,8 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenuScene/Panels/Panels.cs">
     <Files>
       <File FileName="Assets/Scripts/MainMenuScene/Buttons/GoToSS0.cs" Line="8" Column="11" />
-      <File FileName="Assets/Scripts/MainMenuScene/Buttons/GoToSettings.cs" Line="14" Column="13" />
-      <File FileName="Assets/Scripts/MainMenuScene/Panels/Panels.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/MainMenuScene/Panels/Panels.cs" Line="106" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

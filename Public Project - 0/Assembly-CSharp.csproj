@@ -60,7 +60,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\MainMenuScene\Buttons\GoToSettings.cs" />
     <Compile Include="Assets\Scripts\MainMenuScene\Buttons\GoToSS0.cs" />
     <Compile Include="Assets\Scripts\MainMenuScene\Panels\Panels.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
